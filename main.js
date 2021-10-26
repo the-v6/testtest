@@ -11,5 +11,4 @@ let option = {
 }
 
 fetch(url,option).then(res => res.json()).then(d => console.log(d));
-
-//hello
+//ok
