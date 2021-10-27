@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Otp uid="999982103445" ac="public" sa="public" ver="2.5" txn="test" ts="2021-10-27T17:29:21+05:30" lk="MAElpSz56NccNf11_wSM_RrXwa7n8_CaoWRrjYYWouA1r8IoJjuaGYg" type="A">
+    <Opts ch="01" />
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        </SignedInfo>
+        <SignatureValue>XYfX2RaRGClRU8gVJ1oaCST7M8dg2XmdTna3c3FDSSRsZJqfGREd8sHhcDaHbn8dws/WeMk5yNx54EsmAQqvs0re8cUrx8VKPmHLLF1dzrFDlz4QrsGnGr2a7UbSOPZ//pDG0klPY/8uUvnMJQsWtflAUygIbOJSVrPDWVmfSJ9ADRYDetAVuKT2ap1VjAulcVm3DMcD9822SIP8EGZ2VSZauMxDoxNjYvJLdgkq7537/xZzevrX7l+19ZNF1XAA9aGPo8OP8eb21suMSsf6l5ZFe/tesjk6TGa7xFbvTkTKsJReeZvPmYqgVsPr6cWbkxWPno1rBHUPSi1Q5r1I3w==</SignatureValue>
+        <KeyInfo>
+            <X509Data />
+        </KeyInfo>
+    </Signature>
+</Otp>
